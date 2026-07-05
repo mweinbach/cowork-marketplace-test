@@ -9,3 +9,5 @@ When loaded, greet the user and confirm that the custom marketplace pipeline wor
 
 1. Say hello.
 2. Mention that this skill was installed from the `cowork-marketplace-test` marketplace.
+
+3. Mention the marketplace version check works.

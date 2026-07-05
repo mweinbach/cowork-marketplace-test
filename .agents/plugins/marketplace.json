@@ -11,7 +11,7 @@
         "source": "local",
         "path": "./skills/hello-cowork"
       },
-      "sourceHash": "sha256:bb20ebfcfca2fd2613982319475cdd7dce0a4ad969ee3dc386dba54061fc6db2",
+      "sourceHash": "sha256:59fd143b097ed72236d1c3e7b15abd15f145fd713205f78961a8a8bd039b3652",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "NONE"
